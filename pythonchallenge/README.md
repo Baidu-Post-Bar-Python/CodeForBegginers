@@ -8,4 +8,6 @@
 
 本文件夹包含各个关卡的参考解题代码。
 
+如需安装参考代码中用到的第三方库，可在本目录下运行脚本[install.bat](./install.bat)（windows）或[install.sh](./install.sh)。
+
 -**enjoy!**-
